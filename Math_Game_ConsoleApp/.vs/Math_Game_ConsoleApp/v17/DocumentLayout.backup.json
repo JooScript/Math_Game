@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yousef\\Documents\\GitHub\\Math_Game\\Math_Game_ConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E429D6D-559E-4694-B1C7-88222811967D}|Math_Game_ConsoleApp.vcxproj|C:\\Users\\Yousef\\Documents\\GitHub\\Math_Game\\Math_Game_ConsoleApp\\Math_Game_ConsoleApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E429D6D-559E-4694-B1C7-88222811967D}|Math_Game_ConsoleApp.vcxproj|solutionrelative:Math_Game_ConsoleApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Math_Game_ConsoleApp.cpp",
+              "DocumentMoniker": "C:\\Users\\Yousef\\Documents\\GitHub\\Math_Game\\Math_Game_ConsoleApp\\Math_Game_ConsoleApp.cpp",
+              "RelativeDocumentMoniker": "Math_Game_ConsoleApp.cpp",
+              "ToolTip": "C:\\Users\\Yousef\\Documents\\GitHub\\Math_Game\\Math_Game_ConsoleApp\\Math_Game_ConsoleApp.cpp",
+              "RelativeToolTip": "Math_Game_ConsoleApp.cpp",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAswKUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-01T23:02:35.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

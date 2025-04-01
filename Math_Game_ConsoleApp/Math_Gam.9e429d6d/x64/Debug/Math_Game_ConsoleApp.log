@@ -1,0 +1,8 @@
+﻿  Math_Game_ConsoleApp.cpp
+C:\Users\Yousef\Documents\GitHub\Math_Game\Math_Game_ConsoleApp\Math_Game_ConsoleApp.cpp(99,23): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Yousef\Documents\GitHub\Math_Game\Math_Game_ConsoleApp\Math_Game_ConsoleApp.cpp(101,23): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Yousef\Documents\GitHub\Math_Game\Math_Game_ConsoleApp\Math_Game_ConsoleApp.cpp(103,23): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Yousef\Documents\GitHub\Math_Game\Math_Game_ConsoleApp\Math_Game_ConsoleApp.cpp(105,23): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Yousef\Documents\GitHub\Math_Game\Math_Game_ConsoleApp\Math_Game_ConsoleApp.cpp(239,46): warning C4244: 'argument': conversion from 'float' to 'short', possible loss of data
+C:\Users\Yousef\Documents\GitHub\Math_Game\Math_Game_ConsoleApp\Math_Game_ConsoleApp.cpp(239,23): warning C4244: 'argument': conversion from 'float' to 'short', possible loss of data
+  Math_Game_ConsoleApp.vcxproj -> C:\Users\Yousef\Documents\GitHub\Math_Game\Math_Game_ConsoleApp\x64\Debug\Math_Game_ConsoleApp.exe
