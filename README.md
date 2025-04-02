@@ -40,7 +40,6 @@ This project showcases:
 - Handling user input and creating interactive console applications.
 
 ## Future Enhancements
-- Implementing difficulty levels.
 - Adding a timer for each question.
 - Storing high scores using file handling.
 
