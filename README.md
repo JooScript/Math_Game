@@ -26,18 +26,6 @@ The **Simple Math Game** is a console-based application developed in C++ that ge
 - C++ compiler (e.g., **GCC**, **MSVC**, or **Clang**)
 - A terminal or command prompt
 
-### Compilation & Execution
-1. Open a terminal or command prompt.
-2. Navigate to the project directory.
-3. Compile the program using a C++ compiler. Example command using **G++**:
-   ```sh
-   g++ -o MathGame math_game.cpp
-   ```
-4. Run the compiled executable:
-   ```sh
-   ./MathGame
-   ```
-
 ## Usage Instructions
 1. The game presents random arithmetic questions.
 2. Enter your answer when prompted.
@@ -60,4 +48,4 @@ This project showcases:
 This project is open-source and free to use under the **MIT License**.
 
 ---
-Developed by **[Your Name]**
+Developed by **[Yousef Refat]**
